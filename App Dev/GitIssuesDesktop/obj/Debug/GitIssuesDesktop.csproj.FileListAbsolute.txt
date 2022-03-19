@@ -1,0 +1,16 @@
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop.csproj.AssemblyReference.cache
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop.csproj.SuggestedBindingRedirects.cache
+D:\GitIssuesDesktop\obj\Debug\MainWindow.g.cs
+D:\GitIssuesDesktop\obj\Debug\App.g.cs
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop_MarkupCompile.cache
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop_MarkupCompile.lref
+D:\GitIssuesDesktop\bin\Debug\GitIssuesDesktop.exe.config
+D:\GitIssuesDesktop\bin\Debug\GitIssuesDesktop.exe
+D:\GitIssuesDesktop\bin\Debug\GitIssuesDesktop.pdb
+D:\GitIssuesDesktop\obj\Debug\MainWindow.baml
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop.g.resources
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop.Properties.Resources.resources
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop.csproj.GenerateResource.cache
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop.csproj.CoreCompileInputs.cache
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop.exe
+D:\GitIssuesDesktop\obj\Debug\GitIssuesDesktop.pdb
