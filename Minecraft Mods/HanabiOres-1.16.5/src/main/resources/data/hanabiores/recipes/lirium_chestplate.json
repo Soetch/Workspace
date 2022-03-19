@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "hanabiores:lirium_ingot"
+    }
+  },
+  "result": {
+    "item": "hanabiores:lirium_chestplate"
+  }
+}

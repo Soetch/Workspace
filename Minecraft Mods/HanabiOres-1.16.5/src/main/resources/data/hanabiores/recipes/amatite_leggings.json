@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "hanabiores:amatite_ingot"
+    }
+  },
+  "result": {
+    "item": "hanabiores:amatite_leggings"
+  }
+}
