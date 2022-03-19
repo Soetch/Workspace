@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "hanabiores:amatite_block"
+    }
+  ],
+  "result": {
+    "item": "hanabiores:amatite_ingot",
+    "count": 9
+  }
+}
