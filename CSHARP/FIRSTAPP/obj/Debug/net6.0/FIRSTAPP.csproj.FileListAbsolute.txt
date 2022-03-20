@@ -1,0 +1,15 @@
+D:\Code\CSHARP\FIRSTAPP\bin\Debug\net6.0\FIRSTAPP.exe
+D:\Code\CSHARP\FIRSTAPP\bin\Debug\net6.0\FIRSTAPP.deps.json
+D:\Code\CSHARP\FIRSTAPP\bin\Debug\net6.0\FIRSTAPP.runtimeconfig.json
+D:\Code\CSHARP\FIRSTAPP\bin\Debug\net6.0\FIRSTAPP.dll
+D:\Code\CSHARP\FIRSTAPP\bin\Debug\net6.0\ref\FIRSTAPP.dll
+D:\Code\CSHARP\FIRSTAPP\bin\Debug\net6.0\FIRSTAPP.pdb
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\FIRSTAPP.csproj.AssemblyReference.cache
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\FIRSTAPP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\FIRSTAPP.AssemblyInfoInputs.cache
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\FIRSTAPP.AssemblyInfo.cs
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\FIRSTAPP.csproj.CoreCompileInputs.cache
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\FIRSTAPP.dll
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\ref\FIRSTAPP.dll
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\FIRSTAPP.pdb
+D:\Code\CSHARP\FIRSTAPP\obj\Debug\net6.0\FIRSTAPP.genruntimeconfig.cache
